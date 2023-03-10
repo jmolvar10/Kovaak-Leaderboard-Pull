@@ -5,7 +5,52 @@ import xlwt
 from xlwt import Workbook
 
 # INPUT IN SCENARIO NAMES
-SCENARIO_NAMES = ['Pasu Voltaic Easy', 'B180 Voltaic Easy']
+SCENARIO_NAMES = [
+'VT Pasu Rasp Novice',
+'VT Bounceshot Novice',
+'VT 1w6ts Rasp Novice',
+'VT Multiclick 120 Novice',
+'VT Smoothbot Novice',
+'VT PreciseOrb Novice',
+'VT Plaza Novice',
+'VT Air Novice',
+'VT psalmTS Novice',
+'VT skyTS Novice',
+'VT evaTS Novice',
+'VT bounceTS Novice',
+'VT Pasu Rasp Intermediate',
+'VT Bounceshot Intermediate',
+'VT 1w5ts Rasp Intermediate',
+'VT Multiclick 120 Intermediate',
+'VT AngleStrafe Intermediate',
+'VT ArcStrafe Intermediate',
+'VT Smoothbot Intermediate',
+'VT PreciseOrb Intermediate',
+'VT Plaza Intermediate',
+'VT Air Intermediate',
+'VT PatStrafe Intermediate',
+'VT AirStrafe Intermediate',
+'VT psalmTS Intermediate',
+'VT skyTS Intermediate',
+'VT evaTS Intermediate',
+'VT bounceTS Intermediate',
+'VT Pasu Rasp Advanced',
+'VT Bounceshot Advanced',
+'VT 1w3ts Rasp Advanced',
+'VT Multiclick 180 Advanced',
+'VT AngleStrafe Advanced',
+'VT ArcStrafe Advanced',
+'VT Smoothbot Advanced',
+'VT PreciseOrb Advanced',
+'VT Plaza Advanced',
+'VT Air Advanced',
+'VT PatStrafe Advanced',
+'VT AirStrafe Advanced',
+'VT psalmTS Advanced',
+'VT skyTS Advanced',
+'VT evaTS Advanced',
+'VT bounceTS Advanced',
+]
 Excel_File_Name = 'Test'
 
 # ARRAY SETUP
